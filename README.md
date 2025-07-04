@@ -155,7 +155,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
+**Nicolás Tomadín**
 - GitHub: [[@N1coTom55](https://github.com/N1coTom55)](https://github.com/N1coTom55)
 - LinkedIn:[ https://www.linkedin.com/in/nicolas-tomadin04/](https://www.linkedin.com/in/nicolas-tomadin04/)
 - Email: nicolas.tomadin1995@gmail.com
