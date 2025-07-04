@@ -42,14 +42,6 @@ gym-website/
 ├── style.css           # Estilos principales
 ├── script.js           # Funcionalidad JavaScript
 ├── img/               # Imágenes del sitio
-│   ├── persona-entrenando.jpg
-│   ├── gimnasio-moderno.jpg
-│   ├── carlos-mendez.jpg
-│   ├── ana-rodriguez.jpg
-│   ├── miguel-torres.jpg
-│   ├── maria-gonzalez.jpg
-│   ├── juan-perez.jpg
-│   └── laura-martin.jpg
 └── README.md          # Este archivo
 ```
 
