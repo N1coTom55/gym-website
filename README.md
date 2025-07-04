@@ -19,8 +19,7 @@ Una página web moderna y responsive para gimnasios, diseñada para mostrar serv
 ## 📱 Capturas de Pantalla
 
 ### Desktop
-![image](https://github.com/user-attachments/assets/5f2ca315-6c6a-416b-bea8-520a04e84568)
-
+![06fkhnyl](https://github.com/user-attachments/assets/f31f10db-00bb-49d2-9de9-899e6ac023e9)
 
 ### Mobile
 ![image](https://github.com/user-attachments/assets/50727b94-7e1e-4fe6-a848-4032f3787f31)
