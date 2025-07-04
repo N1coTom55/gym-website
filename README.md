@@ -47,11 +47,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5424f8c9-c1d9-435e-ad62-ac56ac1f6fe4" alt="Desktop" width="500">
+      <img src="https://github.com/user-attachments/assets/5424f8c9-c1d9-435e-ad62-ac56ac1f6fe4" alt="Desktop" width="600">
       <br><strong>🖥️ Vista Desktop</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/50727b94-7e1e-4fe6-a848-4032f3787f31" alt="Mobile" width="300">
+      <img src="https://github.com/user-attachments/assets/50727b94-7e1e-4fe6-a848-4032f3787f31" alt="Mobile" width="400">
       <br><strong>📱 Vista Mobile</strong>
     </td>
   </tr>
