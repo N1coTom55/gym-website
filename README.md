@@ -148,13 +148,8 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 ## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia MIT. Ver el archivo `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ` para más detalles.
 
-# FitZone Gym Website  
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-
-Proyecto del gimnasio FitZone...
 
 ## 👨‍💻 Autor
 
