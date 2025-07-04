@@ -38,11 +38,13 @@ Una página web moderna y responsive para gimnasios, diseñada para mostrar serv
 
 ```
 gym-website/
+├── LICENSE             # Versión en inglés (estándar para GitHub)
+├── LICENCIA.md         # Versión en español (opcional)
 ├── index.html          # Página principal
 ├── style.css           # Estilos principales
 ├── script.js           # Funcionalidad JavaScript
-├── img/               # Imágenes del sitio
-└── README.md          # Este archivo
+├── img/                # Imágenes del sitio
+└── README.md           # Este archivo
 ```
 
 ## 🎨 Secciones Incluidas
