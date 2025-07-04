@@ -14,17 +14,17 @@ Una página web moderna y responsive para gimnasios, diseñada para mostrar serv
 
 ## 🚀 Demo
 
-[Ver Demo en Vivo]([https://tu-usuario.github.io/gym-website](https://n1cotom55.github.io/gym-website/))
+[https://n1cotom55.github.io/gym-website/](https://n1cotom55.github.io/gym-website/)
 
 ## 📱 Capturas de Pantalla
 
 ### Desktop
-![Desktop View](![image](https://github.com/user-attachments/assets/4b4409d6-6f07-4621-bc71-af168b4d6e9f)
-)
+![image](https://github.com/user-attachments/assets/5f2ca315-6c6a-416b-bea8-520a04e84568)
+
 
 ### Mobile
-![Mobile View](![image](https://github.com/user-attachments/assets/2ff6f242-fc2d-4d67-af93-aa94ade40515)
-)
+![image](https://github.com/user-attachments/assets/50727b94-7e1e-4fe6-a848-4032f3787f31)
+
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -69,7 +69,7 @@ gym-website/
 
 1. **Clona el repositorio**:
    ```bash
-   git clone [https://github.com/tu-usuario/gym-website.git](https://github.com/N1coTom55/gym-website.git)
+   git clone https://github.com/N1coTom55/gym-website.git
    ```
 
 2. **Navega al directorio**:
@@ -160,8 +160,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/N1coTom55)
-- LinkedIn: [Tu Perfil]([https://linkedin.com/in/nicolas-tomadin04](https://www.linkedin.com/in/nicolas-tomadin04/))
+- GitHub: [[@tu-usuario](https://github.com/N1coTom55)](https://github.com/N1coTom55)
+- LinkedIn:[ https://www.linkedin.com/in/nicolas-tomadin04/](https://www.linkedin.com/in/nicolas-tomadin04/)
 - Email: tu.email@ejemplo.com
 
 ## 🙏 Agradecimientos
