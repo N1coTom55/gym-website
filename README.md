@@ -50,7 +50,6 @@ gym-website/
 │   ├── maria-gonzalez.jpg
 │   ├── juan-perez.jpg
 │   └── laura-martin.jpg
-├── screenshots/       # Capturas de pantalla
 └── README.md          # Este archivo
 ```
 
