@@ -276,7 +276,7 @@ Este proyecto está bajo la **Licencia MIT**. Consulta el archivo [`LICENSE`](LI
   <br>
   <strong>Nicolás Tomadín</strong>
   <br>
-  <em>Full Stack Developer</em>
+  <em>Programador/Desarrollador Web</em>
 </div>
 
 <div align="center">
