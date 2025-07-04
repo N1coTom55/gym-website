@@ -75,9 +75,6 @@ gym-website/
 ├── 🎨 style.css           # Estilos principales
 ├── ⚡ script.js           # Funcionalidad JavaScript
 ├── 📁 img/                # Recursos visuales
-│   ├── 🖼️ hero-bg.jpg     # Imagen de fondo principal
-│   ├── 👥 trainer-*.jpg   # Fotos de entrenadores
-│   └── 🏋️ service-*.jpg   # Imágenes de servicios
 ├── 📋 README.md           # Documentación
 ├── 📜 LICENSE             # Licencia MIT
 └── 📋 LICENCIA.md         # Licencia en español
